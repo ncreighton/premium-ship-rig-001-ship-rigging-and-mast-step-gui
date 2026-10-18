@@ -1,0 +1,2 @@
+# premium-ship-rig-001-ship-rigging-and-mast-step-gui
+Stop second-guessing your mast step and rigging sequence. One overlooked turnbuckle or misaligned spreader can cost you a season—this Notion template turns chaos into a repeatable, error-proof workflow.  The Ship Rigging and Mast Step Guide eliminates the guesswork by giving you a single source of truth for every line, fitting, and step. Unlike sca
